@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "90339579608",
+    "project_id": "fitness-app-769a6",
+    "storage_bucket": "fitness-app-769a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90339579608:android:daf0667ccf1bbacef229ad",
+        "android_client_info": {
+          "package_name": "com.example.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90339579608-44f3gmlvu519pipdtvh90pl0q75pqp1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3xqVd4Id2LeE0c8Icm_k6NpNadA18C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90339579608-44f3gmlvu519pipdtvh90pl0q75pqp1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90339579608-qslau3oga50rakjrgpd7n7r1ci6idrqt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
